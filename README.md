@@ -34,7 +34,9 @@
   <a href="https://www.codewars.com/users/m000gg" target="_blank">
     <img src="https://www.codewars.com/users/m000gg/badges/large?theme=dark" alt="CodeWars" />
   </a>
-  
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/HZbYuLzB0Z/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
