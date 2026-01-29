@@ -26,7 +26,6 @@
 </p>
 
 
-
 ---
 
 ### 🏆 Competitive Programming
@@ -38,11 +37,20 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/codewars?username=m000gg&theme=tokyonight&hide_border=true" alt="CodeWars Stats" />
+</p>
+
+<p align="center">
   <a href="https://leetcode.com/u/HZbYuLzB0Z/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
+  <img src="https://img.shields.io/badge/Rank-Knight/Guardian-red?style=for-the-badge&logo=target" alt="Rank" />
+  <img src="https://img.shields.io/badge/Problems_Solved-Daily-green?style=for-the-badge&logo=checkmarx" alt="Daily" />
 </p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
+</p>
 
 ---
 
