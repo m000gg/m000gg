@@ -30,7 +30,7 @@
 ### 🕹️ Vibe Zone
 
 <p align="center">
-  <img src="profile-gif.gif" width="400" />
+  ``<img src="profile-gif.gif" width="400" />``
 </p>
 
 <p align="center">
