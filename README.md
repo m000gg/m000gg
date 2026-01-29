@@ -14,7 +14,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,nodejs,py,cpp,go,docker,figma,linux,mongodb,postgres,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,spring,mysql,js,html,css,git&theme=dark" />
   </a>
 </p>
 
@@ -24,20 +24,7 @@
 
 ---
 
-### 📈 System Analytics
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m000gg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=m000gg&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m000gg&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
-</p>
-
----
-
-### 🕹️ Vibe Zone
+###  Vibe Zone
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bm9oN3RrZzR4eHByZzR4eHByZzR4eHByZzR4eHByZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
