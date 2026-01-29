@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,spring,thymeleaf,mysql,js,html,css,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,java,spring,mysql,js,html,css,git&theme=dark" />
   </a>
 </p>
 
