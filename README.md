@@ -25,6 +25,33 @@
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m000gg&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
 </p>
 
+
+
+---
+
+### 🏆 Competitive Programming
+
+<p align="center">
+  <a href="https://www.codewars.com/users/m000gg" target="_blank">
+    <img src="https://www.codewars.com/users/m000gg/badges/large?theme=dark" alt="CodeWars" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/HZbYuLzB0Z/" target="_blank">
+    <img src="https://leetcode-stats-six.vercel.app/api?username=HZbYuLzB0Z&theme=dark" alt="LeetCode" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/HZbYuLzB0Z/" target="_blank">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+  </a>
+  <a href="https://www.codewars.com/users/m000gg" target="_blank">
+    <img src="https://img.shields.io/badge/-CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ### 🕹️ Vibe Zone
