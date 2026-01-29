@@ -1,51 +1,52 @@
-# Hi there, I'm <Your Name>! ⚡
+# ⚡ Welcome to my Digital Playground
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=venom&color=00f2ff&height=200&section=header&text=Code%20&%20Chaos&fontSize=80&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=00f2ff&height=250&section=header&text=m000gg&fontSize=80&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=435&lines=Fullstack+Developer;Creative+Coder;Open+Source+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=Building+Digital+Realms;Solving+Complex+Puzzles;Coffee+Into+Code;Optimization+Addict" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🛠 My Tech Arsenal
+### 🚀 Tech Stack Matrix
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,wasm,nodejs,py,cpp,go,docker,github,linux,figma,threejs&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,nodejs,py,cpp,go,docker,figma,linux,mongodb,postgres,git,github&theme=dark" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=m000gg&theme=tokyonight&no-bg=true&margin-w=15" alt="trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=m000gg&theme=tokyonight&no-bg=true&column=4" />
 </p>
 
 ---
 
-### 📊 Git Insight
+### 📈 System Analytics
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=m000gg&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=m000gg&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=m000gg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=m000gg&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m000gg&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m000gg&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
 </p>
 
 ---
 
-### ⚡ Activity Graph 
+### 🕹️ Vibe Zone
+
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m000gg&theme=tokyo-night&hide_border=true" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ4bm9oN3RrZzR4eHByZzR4eHByZzR4eHByZzR4eHByZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="600" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/assets/snake.gif" width="100%" alt="snake gif" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake" />
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=m000gg&color=00f2ff&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=m000gg&label=SYSTEM+ACCESSES&color=00f2ff&style=flat" />
 </p>
