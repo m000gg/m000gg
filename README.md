@@ -45,10 +45,11 @@
 
 <p align="center">
   <a href="https://leetcode.com/u/HZbYuLzB0Z/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.codewars.com/users/m000gg" target="_blank">
-    <img src="https://img.shields.io/badge/-CodeWars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" />
+  <br><br>
+  <a href="https://leetcode.com/u/HZbYuLzB0Z/">
+    <img src="https://leetcard.jacoblin.cool/HZbYuLzB0Z?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
   </a>
 </p>
 
