@@ -20,15 +20,6 @@
 
 ---
 
-### 📈 Activity Pulse
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=m000gg&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117" />
-</p>
-
-
----
-
 ### 🏆 Competitive Programming
 
 <p align="center">
