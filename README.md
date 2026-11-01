@@ -20,7 +20,7 @@
 
 ---
 
-### 🏆 Competitive Programming
+### 🏆 Competitive Programming & Security
 
 <p align="center">
   <a href="https://www.codewars.com/users/m000gg" target="_blank">
@@ -31,6 +31,12 @@
 <p align="center">
   <a href="https://leetcode.com/u/HZbYuLzB0Z/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://tryhackme.com/p/m000gg" target="_blank">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-2C303E?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
 </p>
 
